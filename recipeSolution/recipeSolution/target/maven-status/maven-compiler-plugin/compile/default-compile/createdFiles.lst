@@ -1,0 +1,6 @@
+dk/webtrade/recipesolution/data/DataMapper.class
+dk/webtrade/recipesolution/presentation/Control.class
+dk/webtrade/recipesolution/logik/entity/Ingredient.class
+dk/webtrade/recipesolution/logik/entity/User.class
+dk/webtrade/recipesolution/logik/entity/Recipe.class
+dk/webtrade/recipesolution/data/DBConnector.class
