@@ -1,0 +1,2 @@
+Read this about the error: "local variables referenced from an inner class must be final or effectively final"
+http://www.lambdafaq.org/what-are-the-reasons-for-the-restriction-to-effective-immutability/
